@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pranav
 - 👀 I’m interested in Web-development.
-- 🌱 I’m currently learning ... ReactJs and JS related Frameworks and Frontend development.
+- 🌱 I’m currently working on Mern and Sern stack technologies.
 - 💞️ I’m looking to collaborate on Projects in the field of frontend-development.
 - 📫 How to reach me 
 
